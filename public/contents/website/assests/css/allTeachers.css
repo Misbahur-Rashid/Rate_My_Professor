@@ -1,0 +1,141 @@
+/*Header Part Start*/
+header {
+    background-color: #bedcfa;
+}
+.myNav ul li a {
+    color: black;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 15px 15px;
+}
+.navbar-brand img {
+    width: 50px;
+}
+#navbarSupportedContent {
+    float: right;
+}
+
+/*Search Part Start*/
+.search-part {
+    background-color: #d8def5;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.wel-heading {
+    font-size: 30px;
+    text-align: center;
+    color: #923e3e;
+}
+
+.search-field {
+    height: 40px;
+    padding: 10px;
+    margin-left: 35%;
+}
+
+.search-btn {
+    height: 40px;
+    width: 100px;
+    background-color: #f44336;
+    border: none;
+    color: #fff;
+}
+.search-btn:hover {
+    background: #bb0d00;
+    cursor: pointer;
+}
+
+.form-box {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 30px 50px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+/*Search Part End*/
+
+/*Top Professors Part Start*/
+.Professors-part1 {
+    background-color: #aacfcf;
+}
+.Professors {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: groove;
+    border-color: purple;
+    padding: 5px 35px 5px 35px;
+    border-radius: 10px;
+}
+
+.p-name {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #333;
+    margin-top: 15px;
+}
+.d {
+    color: black;
+    text-align: center;
+    line-height: 15px;
+}
+
+.read-more {
+    text-align: center;
+}
+/*Top Professors Part Start*/
+
+/*Footer Start*/
+
+.footer {
+    background: #679b9b;
+    color: #fff;
+}
+.footer h1 {
+    font-size: 20px;
+    margin: 25px 0;
+    text-align: center;
+}
+.footer p {
+    font-size: 12px;
+    text-align: center;
+}
+.copyright {
+    margin-bottom: -80px;
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+.copyright a {
+    color: white;
+}
+.fa-heart-o {
+    color: red;
+    font-size: 15px;
+}
+.footer hr {
+    margin-top: 10px;
+    background-color: #ccc;
+}
+.footer-image img {
+    width: 150px;
+}
+.language {
+    display: flex;
+    justify-content: center;
+}
+.language ul li {
+    list-style-type: none;
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+}
+.language ul li a {
+    color: white;
+}
+
+/*Footer End*/

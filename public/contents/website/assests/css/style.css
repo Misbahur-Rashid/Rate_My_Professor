@@ -1,0 +1,244 @@
+/*Header Part Start*/
+
+header {
+    background-color: #bedcfa;
+}
+
+.myNav ul li a {
+    color: black;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 15px 15px;
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+#navbarSupportedContent {
+    float: right;
+}
+
+/*Header Part end*/
+
+/*Banner Part Start*/
+
+.banner {
+    width: 100%;
+}
+
+.banner-img {
+    background-color: #98acf8;
+}
+
+/*Search Part Start*/
+
+.form {
+    margin-top: 80px;
+}
+
+.wel-heading {
+    font-size: 30px;
+    text-align: center;
+    color: #923e3e;
+}
+
+.search-field-front {
+    height: 40px;
+    padding: 10px;
+    width: 300px;
+    margin-top: 50px;
+    margin-right: 12px;
+}
+
+.search-btn-front {
+    height: 40px;
+    width: 100px;
+    background-color: #f44336;
+    border: none;
+    color: #fff;
+    margin-left: 42.5%;
+    margin-top: 10px;
+}
+
+.search-btn-front:hover {
+    background: #bb0d00;
+    cursor: pointer;
+}
+
+.form-box-front {
+    /* background: rgba(255, 255, 255, 0.3); */
+    padding: 30px 50px;
+    border-radius: 10px;
+    height: 200px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+/* banner part start */
+
+/*Search Part End*/
+
+/*Banner Part End*/
+
+.banner {
+    background: url(../Image/1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: #98acf8;
+    min-height: 864px;
+}
+
+.bac_text {
+    background: linear-gradient(45deg, #bedcfa, #91cece, transparent);
+
+    padding: 42px;
+    border-radius: 11px;
+    position: relative;
+    left: -220px;
+}
+
+.form_customize {
+    transform: translate(245px, 294px);
+    background-color: aqua;
+}
+
+/*Welcome Part Start*/
+
+.welcome-part {
+    background-color: #d8def5;
+    height: auto;
+}
+
+.welcome {
+    height: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.wel-heading {
+    font-size: 30px;
+    text-align: center;
+    color: #923e3e;
+}
+
+.wel-note {
+    text-align: justify;
+    font-size: 15px;
+    color: black;
+}
+
+/*Welcome Part End*/
+
+/*Top Professors Part Start*/
+
+.Professors-part {
+    background-color: #aacfcf;
+}
+
+.Professors {
+    border-style: groove;
+    border-color: purple;
+    border-radius: 10px;
+    width: 243px;
+    height: 428px;
+    margin-bottom: 40px;
+}
+
+.top-10 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #923e3e;
+    letter-spacing: 5px;
+}
+
+.p-name {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #333;
+    margin-top: 15px;
+    text-transform: capitalize;
+}
+
+.d {
+    color: black;
+    text-align: center;
+    line-height: 15px;
+}
+
+.read-more {
+    text-align: center;
+}
+
+/*Top Professors Part Start*/
+
+/*Footer Start*/
+
+.footer {
+    background: #679b9b;
+    color: #fff;
+}
+
+.footer h1 {
+    font-size: 20px;
+    margin: 25px 0;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 12px;
+    text-align: center;
+}
+
+.copyright {
+    margin-bottom: -80px;
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.copyright a {
+    color: white;
+}
+
+.fa-heart-o {
+    color: red;
+    font-size: 15px;
+}
+
+.footer hr {
+    margin-top: 10px;
+    background-color: #ccc;
+}
+
+.footer-image img {
+    width: 150px;
+}
+
+.language {
+    display: flex;
+    justify-content: center;
+}
+
+.language ul li {
+    list-style-type: none;
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.language ul li a {
+    color: white;
+}
+
+.col-md-4 a {
+    color: white;
+}
+
+/*Footer End*/

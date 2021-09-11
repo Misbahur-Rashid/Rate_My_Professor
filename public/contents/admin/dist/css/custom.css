@@ -1,0 +1,26 @@
+.invalid-feedback {
+    display: block;
+}
+.sidebar-nav ul .sidebar-item .first-level .sidebar-item .sidebar-link i {
+    visibility: visible;
+}
+.table td, .table th {
+    vertical-align: middle;
+}
+.btn-circle.btn-sm, .btn-group-sm>.btn-circle.btn {
+    font-size: 13px;
+}
+.el-element-overlay .el-card-item .el-overlay-1 img {
+	height: 271px;
+}
+.table-striped tbody tr:nth-of-type(odd) {
+	background-color: #fff;
+}
+.unreaded td{
+	background: #f7fafc;
+	font-weight: bold;
+}
+.unreaded {
+	background: #f7fafc;
+	font-weight: bold;
+}

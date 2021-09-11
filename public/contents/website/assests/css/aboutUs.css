@@ -1,0 +1,119 @@
+/*Header Part Start*/
+
+header {
+    background-color: #bedcfa;
+}
+
+.myNav ul li a {
+    color: black;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 15px 15px;
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+#navbarSupportedContent {
+    float: right;
+}
+
+
+/*Header Part end*/
+
+
+/*AboutUs Part Start*/
+
+.about-img img {
+    width: 100%;
+}
+
+.about-part {
+    background-color: #d8def5;
+}
+
+.about {
+    height: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.about-heading {
+    font-size: 40px;
+    text-align: center;
+    color: #923e3e;
+}
+
+.about-note {
+    text-align: justify;
+    font-size: 15px;
+    color: black;
+}
+
+
+/*AboutUs Part End*/
+
+
+/*Footer Start*/
+
+.footer {
+    background: #679b9b;
+    color: #fff;
+}
+
+.footer h1 {
+    font-size: 20px;
+    margin: 25px 0;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 12px;
+    text-align: center;
+}
+
+.copyright {
+    margin-bottom: -80px;
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.copyright a {
+    color: white;
+}
+
+.fa-heart-o {
+    color: red;
+    font-size: 15px;
+}
+
+.footer hr {
+    margin-top: 10px;
+    background-color: #ccc;
+}
+
+.footer-image img {
+    width: 150px;
+}
+
+.language {
+    display: flex;
+    justify-content: center;
+}
+
+.language ul li {
+    list-style-type: none;
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.language ul li a {
+    color: white;
+}
+
+
+/*Footer End*/
